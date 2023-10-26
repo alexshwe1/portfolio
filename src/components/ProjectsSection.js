@@ -16,7 +16,7 @@ const projects = [
   {
     title: "Moto Bikes",
     description:
-      "An electric bike e-commerce site offering lightweight and affordable e-bikes, headquartered in San Francisco, California",
+      "An e-commerce site offering lightweight and affordable electric bikes, headquartered in San Francisco, California",
     imageSrc: motoImage,
     link: "https://www.ridewithmoto.com/",
   },
